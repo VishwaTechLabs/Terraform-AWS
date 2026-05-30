@@ -1,3 +1,5 @@
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/8c7b6355-b078-40f0-a3d9-c79c599f284a" />
+
 <div align="center">
 
 # 🚀 Terraform AWS Labs
@@ -107,6 +109,9 @@ Terraform-AWS/
 6. IAM Role on EC2
 7. AWS SSO
 8. GitHub OIDC
+
+<img width="1998" height="1125" alt="image" src="https://github.com/user-attachments/assets/f253f63b-df59-462b-b854-0f1fb86c0499" />
+
 
 ---
 
