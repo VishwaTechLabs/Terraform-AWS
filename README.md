@@ -180,7 +180,7 @@ CIDR:
 # 🌐 Connect With Me
 
 GitHub:
-https://github.com/iampamidlmvishwa
+https://github.com/VishwaTechLabs
 
 YouTube:
 https://youtube.com/@VishwaTechLabs
